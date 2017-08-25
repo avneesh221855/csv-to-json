@@ -12,13 +12,12 @@ The three JSON file will be generated according to :-
 
 
 Urban population (% of total)
-
 Rural population (% of total)
 
 2.Data for  Urban population growth (annual %) for India over the years supplied .
 
 
-3. Data for all countries in Asia over the given time period filtering on the following value:
+3.Data for all countries in Asia over the given time period filtering on the following value:
 
 Urban population + Rural population in descending order.
 
