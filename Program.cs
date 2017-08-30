@@ -21,6 +21,8 @@ namespace ConsoleApp1
     }
     class Program
     {
+        
+          protected Program(){}
         static void Main(string[] args)
         {
             FileStream sample = new FileStream(@"D:\Indicators.csv", FileMode.Open, FileAccess.Read);
